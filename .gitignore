@@ -2,4 +2,6 @@
 .idea
 CreateClass/bin/
 CreateClass/obj
+CreateClass/Properties
 CreateClass.sln
+CreateClass/CreateClass.csproj
